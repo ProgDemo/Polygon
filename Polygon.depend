@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1523470557 source:e:\elte\prog_demo\polygon\main.cpp
+	<iostream>
+	<vector>
+	"Polygong.h"
+	"Triangle.h"
+	"Square.h"
+
+1523543542 e:\elte\prog_demo\polygon\polygong.h
+	<sstream>
+	<ostream>
+
+1523469863 e:\elte\prog_demo\polygon\triangle.h
+	"Polygong.h"
+	<math.h>
+
+1523467898 source:e:\elte\prog_demo\polygon\triangle.cpp
+	"Triangle.h"
+
+1523470567 e:\elte\prog_demo\polygon\square.h
+
